@@ -1,0 +1,10 @@
+[Match]
+Name=ens5.52
+
+[Network]
+Address=213.73.39.112/24
+Gateway=213.73.39.1
+DNS=213.73.40.46
+DNS=213.73.40.48
+DNS=8.8.8.8
+Domains=uoc.es

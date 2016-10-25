@@ -1,0 +1,6 @@
+[NetDev]
+Name=ens5.52
+Kind=vlan
+
+[VLAN]
+Id=52
