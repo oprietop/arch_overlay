@@ -1,1 +1,1 @@
-/etc/systemd/system/macspoof@.service
+/etc/systemd/system/macspoof@wlp2s0.service

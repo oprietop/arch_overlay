@@ -4,6 +4,7 @@ Wants=network-pre.target
 Before=network-pre.target
 BindsTo=sys-subsystem-net-devices-%i.device
 After=sys-subsystem-net-devices-%i.device
+Before=wicd.service
 
 [Service]
 ExecStart=/usr/bin/macchanger -e %I
